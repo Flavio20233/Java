@@ -5,7 +5,7 @@ public class Calculadora {
 
         Scanner entrada = new Scanner(System.in);
         int primeiro = 0,segundo = 0;
-        int resultado;
+        double resultado;
         double resDiv;
        
        
@@ -42,6 +42,11 @@ public class Calculadora {
                 break;
                 case 0:
                     System.out.println("Encerando!");
+                    break;
+                    case 5:
+                    resultado = Math.pow(primeiro,segundo);
+
+                    System.out.println(resultado);
                     break;
                 default:
                     break;
