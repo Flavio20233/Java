@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Users\\ALUNO\\Desktop\\activation-1.1.jar",
+        "d:\\Users\\ALUNO\\Desktop\\javaee-api-8.0.1.jar",
+        "d:\\Users\\ALUNO\\Desktop\\javax.mail-1.6.2.jar"
+    ]
+}
