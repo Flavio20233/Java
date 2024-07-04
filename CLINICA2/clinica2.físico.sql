@@ -93,6 +93,7 @@ CONSTRAINT IDCONSULTA_FK FOREIGN KEY (IDCONSULTA)
             
             )ENGINE = INNODB ;
             
+	 
           
             
     
