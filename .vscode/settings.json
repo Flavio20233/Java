@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "ArquivoJson/src",
+        "senaicrud/src/main/java/com/crud/senaicrud"
+    ]
+}
