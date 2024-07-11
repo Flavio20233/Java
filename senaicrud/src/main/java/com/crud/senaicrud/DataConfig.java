@@ -1,10 +1,7 @@
 package com.crud.senaicrud;
 
-import java.sql.DriverManager;
-
 import javax.sql.DataSource;
 
-import org.hibernate.Hibernate;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
@@ -37,3 +34,4 @@ public class DataConfig {
     }
 
 }
+
