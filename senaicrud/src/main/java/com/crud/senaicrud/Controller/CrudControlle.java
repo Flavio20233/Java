@@ -73,4 +73,3 @@ public class CrudControlle {
 		csr.delete(usuario);
 		return "redirect:/";
 	}
-}
