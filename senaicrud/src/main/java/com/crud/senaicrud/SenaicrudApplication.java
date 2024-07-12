@@ -1,7 +1,5 @@
 package com.crud.senaicrud;
 
-import java.util.list;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
